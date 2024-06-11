@@ -1,0 +1,13 @@
+h4 {
+    background-color: green;
+  }
+  h5 {
+    border: 4px solid;
+  }
+  img {
+    height: 200px;
+    width: 150px;
+  }
+  h6 {
+    font-size: 60px;
+  }
