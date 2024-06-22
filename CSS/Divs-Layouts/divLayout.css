@@ -1,0 +1,42 @@
+div#main {
+    border: 5px solid pink;
+  }
+  div#header {
+    border: 1px solid;
+    height: 40px;
+    margin: 5px;
+    background: yellowgreen;
+  }
+  div#navBar {
+    border: 1px solid;
+    margin: 5px;
+    background: rgb(26, 167, 42);
+  }
+  li {
+    margin-right: 35px;
+    display: inline;
+    border-right: 1px ;
+  }
+  div#middleSection {
+    border: 1px solid;
+    margin: 5px;
+    overflow: auto;
+  }
+  div#imageSec {
+    float: left;
+    width: 500px;
+    border-right: 1px solid;
+    height: 100px;
+    text-align: center;
+    background-color: yellow;
+  }
+  div#listBox {
+    background: orange;
+    height: 100px;
+  }
+  div#footer {
+    border: 2px solid;
+    margin: 5px;
+    height: 30px;
+    background: green;
+  }
