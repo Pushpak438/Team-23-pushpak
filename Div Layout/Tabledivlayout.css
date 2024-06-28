@@ -50,6 +50,9 @@ table {
     margin: auto;
     margin-top: 15px;
 }
+container-2 sectionsContainer {
+  margin: 40px;
+}
 div#sectionsContainer-5 {
     background-color: azure;
   }
@@ -95,4 +98,9 @@ div#sectionsContainer-5 {
   p#leftPara {
     float: right;
   }
-  
+  div#container-2 {
+    padding: 40px;
+}
+div#sectionsContainer-5 {
+  margin-bottom: 20px;
+}
